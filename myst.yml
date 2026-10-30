@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Sociotechnical Methods in Machine Learning
+  # description:
+  # keywords: []
+  authors: ["Sarah M Brown"]
+  # github:
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  exclude:
+    - index.md
+site:
+  options:
+    hide_myst_branding: true
+    hide_outline: true
+  # template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
